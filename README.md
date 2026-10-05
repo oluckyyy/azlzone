@@ -146,7 +146,7 @@ Auto drift detection (scheduled plans)
 📝 License
 Licensed under MIT License.
 
-👨‍💻 Author Lucky
+👨‍💻 Author Lucky S. Wilson
 Jn. Developer | Data Enginering | DevOps | IaC Automation
 
 ⭐ If you find this project useful, please star the repo!
