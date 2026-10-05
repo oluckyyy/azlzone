@@ -144,12 +144,9 @@ Conftest/Sentinel policy tests
 Auto drift detection (scheduled plans)
 
 📝 License
-
 Licensed under MIT License.
 
 👨‍💻 Author
-
-Built by Lossine T. Kone
-Azure Cloud Engineer | FinOps | DevOps | IaC Automation
+Developer | Data Enginering  | FinOps | DevOps | IaC Automation
 
 ⭐ If you find this project useful, please star the repo!
