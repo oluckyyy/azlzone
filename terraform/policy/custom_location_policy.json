@@ -1,0 +1,24 @@
+{
+  "properties": {
+    "displayName": "Restrict resource locations to East US",
+    "policyType": "Custom",
+    "mode": "All",
+    "description": "Only resources in East US are allowed.",
+    "metadata": {
+      "version": "1.0.0",
+      "category": "General"
+    },
+    "parameters": {},
+    "policyRule": {
+      "if": {
+        "not": {
+          "field": "location",
+          "equals": "eastus"
+        }
+      },
+      "then": {
+        "effect": "deny"
+      }
+    }
+  }
+}
