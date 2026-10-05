@@ -81,11 +81,11 @@ Tenant Root Group
 Full deployment instructions: docs/getting-started.md
 
 Quick Start
-git clone https://github.com/tlkone/AzureLandingZoneTF.git
+git clone https://github.com/oluckyyy/azlzone
 cd AzureLandingZoneTF/terraform
 
 az login
-az account set --subscription "<your-subscription-id>"
+az account set --subscription "<suscription_here>"
 
 terraform init -backend-config=backend.tfvars
 
@@ -146,7 +146,7 @@ Auto drift detection (scheduled plans)
 📝 License
 Licensed under MIT License.
 
-👨‍💻 Author
-Developer | Data Enginering  | FinOps | DevOps | IaC Automation
+👨‍💻 Author Lucky
+Jn. Developer | Data Enginering | DevOps | IaC Automation
 
 ⭐ If you find this project useful, please star the repo!
